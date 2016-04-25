@@ -45,7 +45,6 @@ ntp
 tree
 bzip2
 epel-release
-dkms
 %end
 
 %post
